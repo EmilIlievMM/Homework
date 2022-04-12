@@ -1,4 +1,4 @@
-package com.company;
+package Homework4;
 
 import java.util.Arrays;
 import java.util.Locale;
@@ -86,7 +86,7 @@ public class ExercisesLecture4 {
     }
     //===========================
     // EXERCISE 4
-    private static void findLargestNumber() {
+    public static void findLargestNumber() {
         System.out.println("Please enter five different numbers");
         Scanner myScanner = new Scanner(System.in);
         int[] numbers = new int[5];
