@@ -9,7 +9,7 @@ public class DivideNumbers {
     // int userInputPercentage = myScanner.nextInt();
     public static void main(String[] args) {
         int a;
-        int b;   // you know this won’t work
+        int b;
 
         Scanner myScanner = new Scanner(System.in);
 
